@@ -1,0 +1,19 @@
+/* mobile <740 */
+@media (max-width:739px){
+    
+}
+/* 740<=Tablet<1024 */
+@media (min-width: 740px) and (max-width: 1023px){
+    .wide{
+        width: 984px;
+    }
+    .about__bottom{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+/* PC>=1024 */
+@media (min-width:1024){
+
+}
